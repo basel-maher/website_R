@@ -6,7 +6,10 @@ education:
   courses:
   - course: PhD in Biochemistry & Molecular Genetics
     institution: University of Virginia School of Medicine
-    year: 2020 (ongoing)
+    year: 2021 (ongoing)
+  - course: MS in Biological and Physical Sciences
+    institution: University of Virginia School of Medicine
+    year: 2017
   - course: MS in Bioinformatics
     institution: University of Michigan
     year: 2015
