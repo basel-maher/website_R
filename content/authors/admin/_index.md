@@ -50,6 +50,6 @@ user_groups:
 - Visitors
 ---
 
-Basel Al-Barghouthi is a Ph.D. candidate in Dr. Charles Farber's lab at the University of Virginia. Basel is interested in the systems genetics of complex traits, and his current research deals with unraveling the systems genetics underlying bone strength and strength-related traits. 
+I am a Ph.D. candidate in Dr. Charles Farber's lab at the University of Virginia. I'm currently interested in the systems genetics of complex traits, and my current research deals with unraveling the systems genetics underlying bone strength and strength-related traits. 
 
-In his research, Basel utilizes computational tools and methods, such as transcriptomic network learning, as well as molecular biology bench work, in order to further understand the genetics underlying bone strength.
+In my research, I utilize computational tools and methods, such as transcriptomic network learning, as well as molecular biology bench work, in order to further understand the genetics underlying bone strength.
